@@ -25,7 +25,7 @@ Les administrateurs peuvent gérer l'ajout et la suppression de produits, effect
 
 ### Le projet est divisé en 12 microservices :
 
-![WeChat Image_20230917204730](E:\C.C.EnLigne\image\WeChat%20Image_20230917204730.png)
+![[WeChat Image_20230917204730](https://github.com/roli1897/C.C.EnLigne/blob/master/image/WeChat%20Image_20230917204730.png)
 
 
 
