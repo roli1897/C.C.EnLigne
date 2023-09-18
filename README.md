@@ -33,15 +33,15 @@ Les administrateurs peuvent gérer l'ajout et la suppression de produits, effect
 
 ### Host et configuration Nginx![WeChat Photo Editor_20230917195138](E:\C.C.EnLigne\image\WeChat%20Photo%20Editor_20230917195138.jpg)
 
-<img src="file:///C:/Users/yuan6/Pictures/Typedown/a212ecfc-0064-4e21-8d8e-74a6030c23d1.png" title="" alt="a212ecfc-0064-4e21-8d8e-74a6030c23d1" style="zoom:150%;">  
+<img src="https://github.com/roli1897/C.C.EnLigne/blob/master/image/a212ecfc-0064-4e21-8d8e-74a6030c23d1.png" title="" alt="a212ecfc-0064-4e21-8d8e-74a6030c23d1" style="zoom:150%;">  
 
-<img title="" src="file:///C:/Users/yuan6/Pictures/Typedown/0270608d-07fd-42ad-998c-a6c5a4a9d2a3.png" alt="0270608d-07fd-42ad-998c-a6c5a4a9d2a3" style="zoom:150%;" data-align="left">
+<img title="" src="https://github.com/roli1897/C.C.EnLigne/blob/master/image/0270608d-07fd-42ad-998c-a6c5a4a9d2a3.png" alt="0270608d-07fd-42ad-998c-a6c5a4a9d2a3" style="zoom:150%;" data-align="left">
 
-<img title="" src="file:///C:/Users/yuan6/Pictures/Typedown/5414e48c-f5be-41e6-8fd1-f1aedda31e4f.png" alt="5414e48c-f5be-41e6-8fd1-f1aedda31e4f" style="zoom:150%;">
+<img title="" src="https://github.com/roli1897/C.C.EnLigne/blob/master/image/5414e48c-f5be-41e6-8fd1-f1aedda31e4f.png" alt="5414e48c-f5be-41e6-8fd1-f1aedda31e4f" style="zoom:150%;">
 
-<img src="file:///C:/Users/yuan6/Pictures/Typedown/11870820-a53a-4377-8f05-c2ac34b8b872.png" title="" alt="11870820-a53a-4377-8f05-c2ac34b8b872" style="zoom:150%;">
+<img src="https://github.com/roli1897/C.C.EnLigne/blob/master/image/11870820-a53a-4377-8f05-c2ac34b8b872.png" title="" alt="11870820-a53a-4377-8f05-c2ac34b8b872" style="zoom:150%;">
 
-<img src="file:///C:/Users/yuan6/Pictures/Typedown/e1eb7cae-8061-4e7d-b9ae-f9bf230d593a.png" title="" alt="e1eb7cae-8061-4e7d-b9ae-f9bf230d593a" style="zoom:150%;">
+<img src="https://github.com/roli1897/C.C.EnLigne/blob/master/image/e1eb7cae-8061-4e7d-b9ae-f9bf230d593a.png" title="" alt="e1eb7cae-8061-4e7d-b9ae-f9bf230d593a" style="zoom:150%;">
 
 ### JWT＆RSA　Auth-service:
 
@@ -94,10 +94,10 @@ La combinaison des technologies mentionnées précédemment peut résoudre les p
 
 #### Page de rechercher
 
-![5a34c1e7-9d55-47a1-95d3-0bdf43509658](file:///C:/Users/yuan6/Pictures/Typedown/5a34c1e7-9d55-47a1-95d3-0bdf43509658.png)
+![5a34c1e7-9d55-47a1-95d3-0bdf43509658](https://github.com/roli1897/C.C.EnLigne/blob/master/image/5a34c1e7-9d55-47a1-95d3-0bdf43509658.png)
 
 #### Page du panier
 
-![c404042d-ff7e-49be-a955-a456adb100db](file:///C:/Users/yuan6/Pictures/Typedown/c404042d-ff7e-49be-a955-a456adb100db.png)
+![c404042d-ff7e-49be-a955-a456adb100db](https://github.com/roli1897/C.C.EnLigne/blob/master/image/c404042d-ff7e-49be-a955-a456adb100db.png)
 
 
