@@ -21,7 +21,7 @@ Les administrateurs peuvent gérer l'ajout et la suppression de produits, effect
 
 ### La structure du projet:
 
-<img src="file:///C:/Users/yuan6/Pictures/Typedown/931011b2-1356-4a62-b929-b449024ce54c.png" title="" alt="931011b2-1356-4a62-b929-b449024ce54c" style="zoom:200%;">
+<img src="(https://github.com/roli1897/C.C.EnLigne/blob/master/image/931011b2-1356-4a62-b929-b449024ce54c.png)" title="" alt="931011b2-1356-4a62-b929-b449024ce54c" style="zoom:200%;">
 
 ### Le projet est divisé en 12 microservices :
 
