@@ -53,7 +53,7 @@ Les administrateurs peuvent gérer l'ajout et la suppression de produits, effect
 
 ### Cart-service:
 
-![cart](E:\C.C.EnLigne\image\cart.png)
+![cart](https://github.com/roli1897/C.C.EnLigne/blob/master/image/cart.png)
 
 
 
