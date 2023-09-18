@@ -25,7 +25,7 @@ Les administrateurs peuvent gérer l'ajout et la suppression de produits, effect
 
 ### Le projet est divisé en 12 microservices :
 
-![WeChat Image_20230917204730](E:\C.C.EnLigne\image\WeChat%20Image_20230917204730.png)
+![WeChat Image_20230917204730](https://github.com/roli1897/C.C.EnLigne/blob/master/image/WeChat%20Image_20230917204730.png)
 
 
 
@@ -47,19 +47,19 @@ Les administrateurs peuvent gérer l'ajout et la suppression de produits, effect
 
 
 
-![Rsa](E:\C.C.EnLigne\image\Rsa.png)
+![Rsa](https://github.com/roli1897/C.C.EnLigne/blob/master/image/Rsa.png)
 
 
 
 ### Cart-service:
 
-![cart](E:\C.C.EnLigne\image\cart.png)
+![cart](https://github.com/roli1897/C.C.EnLigne/blob/master/image/cart.png)
 
 
 
 ### Relation de "call"l entre le service d'article (item-service), le service de panier (cart-service) et le service de commande (order-service).
 
-![item](E:\C.C.EnLigne\image\item.png)
+![item](https://github.com/roli1897/C.C.EnLigne/blob/master/image/item.png)
 
 ### L'interprétation de la technologie :
 
@@ -90,7 +90,7 @@ La combinaison des technologies mentionnées précédemment peut résoudre les p
 
 ### Administration:
 
-![7bcde59e-5dbc-4bfb-955c-f5b6f806cb49](file:///C:/Users/yuan6/Pictures/Typedown/7bcde59e-5dbc-4bfb-955c-f5b6f806cb49.png)
+![7bcde59e-5dbc-4bfb-955c-f5b6f806cb49](https://github.com/roli1897/C.C.EnLigne/blob/master/image/WeChat%20Screenshot_20230916225609.png)
 
 #### Page de rechercher
 
