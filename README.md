@@ -90,7 +90,7 @@ La combinaison des technologies mentionnées précédemment peut résoudre les p
 
 ### Administration:
 
-![7bcde59e-5dbc-4bfb-955c-f5b6f806cb49](file:///C:/Users/yuan6/Pictures/Typedown/7bcde59e-5dbc-4bfb-955c-f5b6f806cb49.png)
+![7bcde59e-5dbc-4bfb-955c-f5b6f806cb49](https://github.com/roli1897/C.C.EnLigne/blob/master/image/WeChat%20Screenshot_20230916225609.png)
 
 #### Page de rechercher
 
