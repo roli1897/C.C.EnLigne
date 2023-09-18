@@ -47,7 +47,7 @@ Les administrateurs peuvent gérer l'ajout et la suppression de produits, effect
 
 
 
-![Rsa](E:\C.C.EnLigne\image\Rsa.png)
+![Rsa]([E:\C.C.EnLigne\image\Rsa.png](https://github.com/roli1897/C.C.EnLigne/blob/master/image/Rsa.png))
 
 
 
