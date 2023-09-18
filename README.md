@@ -59,7 +59,7 @@ Les administrateurs peuvent gérer l'ajout et la suppression de produits, effect
 
 ### Relation de "call"l entre le service d'article (item-service), le service de panier (cart-service) et le service de commande (order-service).
 
-![item](E:\C.C.EnLigne\image\item.png)
+![item](https://github.com/roli1897/C.C.EnLigne/blob/master/image/item.png)
 
 ### L'interprétation de la technologie :
 
